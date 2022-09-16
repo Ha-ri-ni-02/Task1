@@ -1,0 +1,30 @@
+Class : Collection of methods and variables
+
+Class Syntax : 
+      access, class, class name
+      
+Static : (SuperPower)
+     - We can call the method without creating an object
+     
+Void : (Eg. Vaddi Kaasu)
+     - method should not have a return value.
+     
+Main : Its just an keyword 
+
+Method : block of code which only runs when it is called
+      Syntax : access, returntype, methodName
+ 
+Variable :  data container that saves the data values during Java program execution
+      Syntax : access, datatype
+
+Object : 'new' keyword is used to create the object.
+      Syntax : classname refname = new classname
+      
+Constructor : Classname and the constructor name should be same
+     - method that is invoked when an object of the class is created
+     - Once the object is created we use default constructor
+      Syntax : classname();
+      
+this - refers to the current object in a method or constructor
+      
+      
